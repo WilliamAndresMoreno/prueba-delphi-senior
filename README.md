@@ -11,7 +11,7 @@ Este repositorio contiene la solución completa a la prueba técnica para el car
 
 ---
 
-## 🧩 Módulos Implementados
+##  Módulos Implementados
 
 ### 1. Consumo de API REST
 
@@ -39,13 +39,6 @@ Este repositorio contiene la solución completa a la prueba técnica para el car
 
 - Carga de datos con filtros asincrónicos en `TFDQuery` y sincronización de resultados con `TThread.Synchronize`.
 
----
-
-## 📊 Diagrama del Sistema
-
-El siguiente diagrama resume el flujo de componentes:
-
-![Arquitectura Delphi](image.png)
 
 ---
 
@@ -57,7 +50,7 @@ El siguiente diagrama resume el flujo de componentes:
 
 ---
 
-## 🚀 Ejecutar la Solución
+##  Ejecutar la Solución
 
 1. Clonar el repositorio.
 2. Abrir el proyecto Delphi.
@@ -83,4 +76,4 @@ El siguiente diagrama resume el flujo de componentes:
 
 ## ✍️ Autor
 
-Solución desarrollada como respuesta técnica para la posición de Desarrollador Senior Delphi.
+Andrés Moreno solución desarrollada como respuesta técnica para la posición de Desarrollador Senior Delphi.
