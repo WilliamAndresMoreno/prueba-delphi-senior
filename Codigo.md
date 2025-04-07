@@ -1,10 +1,10 @@
-# 🧠 Prueba Técnica – Desarrollador Senior Delphi
+# Prueba Técnica – Desarrollador Senior Delphi
 
 Esta solución responde a los requerimientos planteados para la vacante de Desarrollador Delphi Senior. Se incluyen ejemplos de código fuente, consultas SQL optimizadas, implementación orientada a objetos, uso de hilos para concurrencia, y una grilla con filtros en segundo plano.
 
 ---
 
-## 1. 🌐 Consumo de API REST con POO
+## 1. Consumo de API REST con POO
 
 ### Interfaces y clases
 
@@ -144,7 +144,7 @@ LIMIT 1;
 
 ---
 
-## 4. 🗃️ ORM en Delphi con DAO
+## 4. ORM en Delphi con DAO
 
 ### Clase `TPaciente`
 
@@ -219,7 +219,3 @@ end;
 
 - Esta solución está preparada para extenderse con pruebas unitarias, inyección de dependencias y mejoras de arquitectura.
 - El código es funcional, claro y modular, usando principios SOLID y buenas prácticas Delphi modernas.
-
----
-
-👉 **Haz clic para descargar este archivo como README.md**
